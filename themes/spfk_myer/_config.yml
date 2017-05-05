@@ -35,7 +35,7 @@ subnav:
   # facebook: "#"
   # rss: /atom.xml
   # pinterest: "#"
-  QQ: "#"
+  QQ: "tencent://message/?uin=740051139&Site=&menu=yes"
   wechat: "#"
   # douban: "#"
   # pinboard: "#"
@@ -104,7 +104,7 @@ toc_nowrap: true
 
 # 自定义"阅读全文"链接按钮的显示文字
 # Customize the text on excerpt link
-excerpt_link: 伟大航路 #修改more>>的文字
+excerpt_link: 新世界 #修改more>>的文字
 
 # 是否显示边栏中的搜索框（仅样式，未添加搜索功能）
 # Search Box in left column
