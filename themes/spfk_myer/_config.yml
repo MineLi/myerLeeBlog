@@ -125,7 +125,10 @@ tagcloud: true
 # friends: false
 friends:
   # name: http://luuman.github.io/
-  MyerLee : http://limingyang.xyz
+  我的 : http://limingyang.xyz,
+  赵旭东: http://www.devzxd.top,
+  佳伟: https://www.jwguo.top/,
+  峰哥: http://www.hithey.com/
 
 # 打赏
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
