@@ -5,10 +5,11 @@
 # Site
 title: MyerLee's blog
 subtitle:
-description: 前端 博客 个人博客 海贼主题 vue 微信小程序 react 前端框架 myerLee blog 知识分享  李明洋 limingyang.xyz 框架 node
+description: 李明洋（myerLee）的一个web前端工程师海贼主题的个人博客、分享前端框架使用心得、小程序开发心得。
 author: MyerLee
 language: zh
 timezone:
+keywords: limingyang.xyz 前端  vue 微信小程序 react 前端框架  知识分享 node
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

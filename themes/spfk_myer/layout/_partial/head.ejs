@@ -26,6 +26,9 @@
           <% } %>
             <%= config.title %>
     </title>
+    <% if (page.keywords){ %><meta name="keywords" content="<%= page.keywords %>, <%= config.keywords %>"><% } %>
+
+<% if (!page.keywords){ %><meta name="keywords" content="<%= config.keywords %>"><% } %>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <%- open_graph({twitter_id: theme.twitter, google_plus: theme.google_plus, fb_admins: theme.fb_admins, fb_app_id: theme.fb_app_id}) %>
       <% if (theme.rss){ %>
