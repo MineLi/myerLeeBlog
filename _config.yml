@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: MyerLee's blog
+title: Luke's blog
 subtitle:
-description: 李明洋（myerLee）的一个web前端工程师海贼主题的个人博客、分享前端框架使用心得、小程序开发心得。
-author: MyerLee
+description: 李明洋（Luke）的一个web前端工程师海贼主题的个人博客、分享前端框架使用心得、小程序开发心得。
+author: Luke
 language: zh
 timezone:
 keywords: limingyang.xyz 前端  vue 微信小程序 react 前端框架  知识分享 node
