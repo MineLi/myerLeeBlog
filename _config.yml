@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Luke's blog
+title: Micah
 subtitle:
-description: 李明洋（Luke）的一个web前端工程师海贼主题的个人博客、分享前端框架使用心得、小程序开发心得。
-author: Luke
+description: 李明洋（Micah）的一个web前端工程师海贼主题的个人博客、分享前端框架使用心得、小程序开发心得。
+author: Micah
 language: zh
 timezone:
 keywords: limingyang.xyz 前端  vue 微信小程序 react 前端框架  知识分享 node
@@ -75,7 +75,7 @@ deploy:
   type: ftpsync
   host: limingyang.gotoftp11.com
   user: limingyang
-  pass: lmy1990
+  # pass: lmy1990
   remote: /wwwroot/
   # port: [port]
   ignore: node_modules
