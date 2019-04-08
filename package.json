@@ -5,6 +5,9 @@
   "hexo": {
     "version": "3.7.1"
   },
+  "scripts": {
+    "build": "hexo g"
+  },
   "dependencies": {
     "ftpsync": "^0.2.0",
     "hexo": "^3.3.7",
